@@ -1,5 +1,5 @@
 # Planthood
-A simple journaling app to help users keep track of their existing plants that has a built-in search box to directly search from a plant API (trefle API)
+A simple journaling app to help users keep track of their plants and care instructions 
 
 * Can browse plants that are already added to the database
 * Can add new plants and upload photos of the new plants
