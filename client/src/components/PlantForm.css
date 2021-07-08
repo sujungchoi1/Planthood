@@ -1,0 +1,60 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+* {
+  margin:0;
+  padding:0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+.contentForm {
+    border: 2px rgb(251,189,9) solid;
+    margin: 50px 100px;
+    padding: 30px;
+    margin: 0 auto;
+    border-radius: 5px;
+    
+  }
+
+.formRadio {
+  /* display: flex;   */
+  /* justify-content: space-around; */
+  text-align: left;
+  /* align-items: flex-start; */
+  margin: 30px 0;
+}
+
+.waterRadio {
+  margin-left: 100px;
+}
+
+.dateForm, .dropdownForm {
+  width: 30%;
+}
+
+.dropdownForm label {
+  margin-bottom: 20px;
+}
+
+/* .imageUploader {
+  width: 40%;
+  border-top: rgb(206, 200, 200) 1px solid;
+  border-left: rgb(206, 200, 200) 1px solid;
+  border-radius: 10px;
+  margin-bottom: 30px;
+} */
+
+.imageButton {
+  vertical-align: text-top;
+  margin-left: 10px;
+}
+
+.upload__image-wrapper {
+  margin: 20px 0;
+}
+
+label {
+  color: white;
+}

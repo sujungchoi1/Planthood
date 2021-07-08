@@ -1,0 +1,61 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+* {
+  margin:0;
+  padding:0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.wrapper {
+  margin: 0 auto;
+  background-image: url("../img/tall.jpg");
+  background-position: 50%;
+  background-size: cover !important;
+  /* width: 100% !important; */
+  height: 900px !important;
+  background-color: rgba(193, 245, 221, 0.5);
+	overflow:hidden;
+  opacity: 0.8
+}
+
+
+.plantDetail {
+  border: 7px rgb(226, 235, 227) solid;
+  padding: 100px 0;
+  margin: 20px 100px;
+  border-radius: 10px;
+  background-color:rgba(169, 190, 172, 0.6);
+  /* width: 80%; */
+  text-align: center;
+}
+
+.plantDetail h1 {
+  margin-bottom: 30px;
+  font-size: 40px;
+  color:rgb(83, 136, 194);
+  text-decoration: underline;
+}
+
+.plantDetailContent {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.plantDetailContent img {
+  border: rgb(185, 185, 183) 3px solid;
+  border-radius: 5px;
+}
+
+.plantDetailContentRight {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.plantDetailContentRight h4 {
+  font-size: 20px;
+  color: rgb(96, 95, 95);
+  text-align: left;
+}
